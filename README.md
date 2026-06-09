@@ -1,0 +1,2 @@
+Scenariusz przewiduje przeprowadzenie kilku eksperymentów z udziałem robota i modeli sztucznej inteligencji oraz na ich podstawie poznanie jej możliwości i ograniczeń.
+Scenariusz ten ma możliwość dalszego rozwoju między innymi poprzez uwzględnienie większej ilości czynników wpływających na rozpoznawania obrazów przez AI oraz rozbudowę ostatniego punktu instrukcji, który stanowi zabawa weryfikująca zdobtyte uprzednio wiadomości.
